@@ -179,7 +179,7 @@
     "type": "core",
     "help": ""
   },
-    {
+  {
     "name": "Game Tank",
     "url": "https://github.com/MustardOS/extra/releases/latest/download/Extra.-.Game.Tank.muxzip",
     "type": "core",
@@ -314,6 +314,12 @@
   {
     "name": "Nintendo SNES - SFC",
     "url": "https://github.com/MustardOS/extra/releases/latest/download/Extra.-.Nintendo.SNES.-.SFC.muxzip",
+    "type": "core",
+    "help": ""
+  },
+  {
+    "name": "Nintendo Virtual Boy",
+    "url": "https://github.com/MustardOS/extra/releases/latest/download/Extra.-.Nintendo.Virtual.Boy.muxzip",
     "type": "core",
     "help": ""
   },
@@ -478,6 +484,11 @@
     "url": "https://github.com/MustardOS/extra/releases/latest/download/Extra.-.Watara.Supervision.muxzip",
     "type": "core",
     "help": ""
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "url": "https://github.com/MustardOS/extra/releases/latest/download/Extra.-.Wolfenstein.3D.muxzip",
+    "type": "core",
+    "help": ""
   }
 ]
-
